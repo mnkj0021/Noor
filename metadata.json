@@ -1,0 +1,8 @@
+{
+  "name": "Noor: Your Calm Companion",
+  "description": "Noor is a calm, patient, and emotionally aware companion, here to simply be with you, Nadir. She offers a range of AI capabilities, from conversational chat and image editing to video generation and real-time voice interaction, all integrated naturally into a supportive presence.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
